@@ -3,5 +3,5 @@ Hello World. Let's begin Github.
 
 Hi there!
 
-This is going to be for reviewing my homework.
+This is for reviewing my homework.
 Tada~
